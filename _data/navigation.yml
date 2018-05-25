@@ -1,12 +1,12 @@
 # main links links
 main:
 - title: "Members"
-sub:
-  - title: "Achaz von Hardenberg"
-    url: https://achazhardenberg.github.io
-sub:
-  - title: "Matt Geary"
-    url: https://mattgeary.github.io
+subcategories:
+  - subtitle: "Achaz von Hardenberg"
+    subhref: https://achazhardenberg.github.io
+  - subtitle: "Matt Geary"
+    subhref: https://mattgeary.github.io
+
   
     
 
