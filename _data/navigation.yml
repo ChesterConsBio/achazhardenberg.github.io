@@ -1,10 +1,11 @@
 # main links links
 main:
-- title: "Conservation Biology Research Group"
-  url: /consbiochester/
+- title: "Members"
+  - title: "Achaz von Hardenberg"
+    url: https://achazhardenberg.github.io
+  - title: "Matt Geary"
+    url: https://mattgeary.github.io
   
-- title: "Publications"
-  url: /publications/
     
 
 
