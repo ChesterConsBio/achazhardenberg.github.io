@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Conservation Biology Research Group"
-  avatar           : ""
+  name             : 
+  avatar           :
   bio              : "Conservation and Ecology research at the Department of Biological Sciences"
   location         : "University of Chester, UK"
   employer         :
