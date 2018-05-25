@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Conservation Biology Research Group"
-  avatar           : 
+  avatar           : ""
   bio              : "Conservation and Ecology research at the Department of Biological Sciences"
   location         : "University of Chester, UK"
   employer         :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chesterconsbio"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chesterconsbio"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -237,13 +237,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+
 
 # Sass/SCSS
 sass:
