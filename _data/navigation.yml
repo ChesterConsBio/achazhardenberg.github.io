@@ -2,10 +2,10 @@
 main:
 - title: "Members"
 subcategories:
-  - subtitle: "Achaz von Hardenberg"
-    subhref: https://achazhardenberg.github.io
-  - subtitle: "Matt Geary"
-    subhref: https://mattgeary.github.io
+  - sub-title: "Achaz von Hardenberg"
+    url: https://achazhardenberg.github.io
+  - sub-title: "Matt Geary"
+    url: https://mattgeary.github.io
 
   
     
