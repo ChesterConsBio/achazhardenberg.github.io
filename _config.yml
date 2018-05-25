@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "chesterconsbio"
 facebook:
   username               :
   app_id                 :
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Conservation and Ecology research at the Department of Biological Sciences"
+  name             : 
   avatar           : "profileC.png"
-  bio              : 
+  bio              : "Conservation and Ecology research at the Department of Biological Sciences"
   location         : "University of Chester, UK"
   employer         :
   googlescholar    :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "chesterconsbio"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "chesterconsbio"
   vine             :
   weibo            :
   xing             :
