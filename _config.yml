@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Conservation and Ecology research at the Department of Biological Sciences"
   avatar           : "profileC.png"
-  bio              : "Conservation and Ecology research at the Department of Biological Sciences"
+  bio              : 
   location         : "University of Chester, UK"
   employer         :
   googlescholar    :
