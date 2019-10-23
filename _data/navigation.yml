@@ -1,1 +1,14 @@
 # main links links
+main:
+  
+  - title: "Group Members
+    url: /groupMembers/
+
+  - title: "Current Projects"
+    url: /currentProjects/
+
+  - title: "Outputs"
+    url: /outputs/
+
+  - title: "Projects Available"
+    url: /projectsAvailable/
