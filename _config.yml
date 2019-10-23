@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chesterconsbio"
+  twitter          : "@chesterconsbio"
   vine             :
   weibo            :
   xing             :
@@ -168,16 +168,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  currentProjects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  groupMembers:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projectsAvailable:
     output: true
     permalink: /:collection/:path/
 
