@@ -13,12 +13,14 @@ Profiles of current group members
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <img src="Images/mg.jpg" alt="Matt Geary">
+    <img src="Images/anna-muir.jpg" alt="Anna Muir">
+	<img src="Images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg">
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
+	<td>Lorem ipsum ...</td>
  </tr>
 </table>
 
