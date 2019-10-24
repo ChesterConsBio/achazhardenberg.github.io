@@ -13,9 +13,9 @@ Profiles of current group members
 
 <table border="0">
  <tr>
-    <img src="Images/mg.jpg" alt="Matt Geary">
-    <img src="Images/anna-muir.jpg" alt="Anna Muir">
-	<img src="Images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg">
+    <img src="Images\mg.jpg" alt="Matt Geary">
+    <img src="Images\anna-muir.jpg" alt="Anna Muir">
+	<img src="Images\achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg">
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
