@@ -4,15 +4,15 @@ main:
     url: /groupMembers/
 
   - title: "Outputs"
-    url: /Outputs/    
+    url: /Outputs/
 
   - title: "Current Projects"
-    url: /currentProjects/    
-    
+    url: /currentProjects/
+
   - title: "Available Projects"
     url: /projectsAvailable/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
 
