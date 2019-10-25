@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CBRG"
+title                    : "Chester - CBRG"
 title_separator          : "-"
 name                     : &name "Conservation Biology Research Group"
 description              : &description "personal description"
