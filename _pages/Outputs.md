@@ -11,7 +11,10 @@ redirect_from:
 
 # Recent Research Papers
 
-__Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
+__Peters, C., Nelson, H.P., Rusk, B., Muir A.P., 2019__ A novel method to optimise the utility of underused moulted plumulaceous feather samples for genetic analysis in bird conservation.Conservation Genetic Resources. https://doi.org/10.1007/s12686-019-01117-8
+
+__Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 
+2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
 
 __Santini, L., González‐Suárez, M., Russo, D., Gonzalez‐Voyer, A., von Hardenberg, A. and Ancillotto, L., 2019.__ One strategy does not fit all: determinants of urban adaptation in mammals. Ecology letters, 22(2), pp.365-376.  
 
@@ -39,7 +42,17 @@ __Quevedo P. von Hardenberg A.,  Pastore H., Álvarez J. and  Corti P., 2016__ P
 
 # Conference Presentations
 
+
+__Muir, A.__ European Society for Evolutionary Biology Congress 2019, Turku, Finland “Disperse, acclimatise or adapt: seascape genomics along a thermal gradient”  
+__Muir, A.__ 52nd Population Genetics Group Meeting, Oxford, UK "Seascape genomics of a reef-	building ecosystem engineer (Sabellaria alveolata)”    
 __Geary, M. & von Hardenberg, A.__ British Ornithologists Union Conference 2018 - Poster - "SUPPORTING THE ATLAS: Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specific Densities" - Geary, M. & von Hardenberg, A.  
-__Geary, M.__ British Ecological Society Annual Meeting 2016 – “Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography”  
+__Geary, M.__ British Ecological Society Annual Meeting 2016 – “Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography”
+__Muir, A.__ British Ecological Society Annual Meeting, Liverpool, UK “The potential for acclimation and adaptation in response to a changing climate”  
+
+
+2019		52nd Population Genetics Group Meeting, Oxford, UK "Seascape genomics of a reef-	building ecosystem engineer (Sabellaria alveolata)”
+
+2016		British Ecological Society Annual Meeting, Liverpool, UK “The potential for acclimation and adaptation in response to a changing climate”
+  
 
 # Reports

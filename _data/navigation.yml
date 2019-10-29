@@ -6,12 +6,6 @@ main:
   - title: "Outputs"
     url: /Outputs/
 
-  - title: "Current Projects"
-    url: /currentProjects/
-
-  - title: "Available Projects"
-    url: /projectsAvailable/
-
   - title: "Blog Posts"
     url: /year-archive/
 
