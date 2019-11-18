@@ -36,18 +36,18 @@ Profiles of current group members
 
 <table border="0" align  = "center">
  <tr>
-    <td style="border: 0;"><img src="" alt="PhD1"></td>
+    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
     <td style="border: 0;"><img src="" alt="PhD2"></td>
 	<td style="border: 0;"><img src="" alt="PhD3"></td>
  </tr>
  <tr>
-    <td style="border: 0;">Kate Peters</td>
+    <td style="border: 0;"><a href="http://chesterconsbio.github.io/cpeters.html">Kate Peters</a></td>
     <td style="border: 0;">Rachel Ball</td>
 	<td style="border: 0;">Naomi Matthews</td>
 	<td style="border: 0;">Alex Lancaster</td>
  </tr>
   <tr>
-    <td style="border: 0;">Molecular phylogeny and genetic diversity of the critically endangered Grenada dove (<i>Leptotila wellsi</i>). </td>
+    <td style="border: 0;">Molecular phylogeny and genetic diversity of the critically endangered Grenada dove (<i>Leptotila wellsi</i>)</td>
     <td style="border: 0;">Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales around the British Isles. </td>
 	<td style="border: 0;">Conservation Ecology of Giant Pangolin in Uganda.</td>
 	<td style="border: 0;">Investigating the interactions between sympatric wild guanaco and domestic sheep, and the effects of livestock on the behaviour of guanaco in Patagonia, Southern Chile.</td>
