@@ -12,16 +12,16 @@ redirect_from:
 Profiles of current group members
 
 # Academic Staff
-<table border="0" align  = "center">
+<table border="0" align  = "center" width  = "400">
  <tr>
     <td style="border: 0;"><img src="../images/mg.jpg" alt="Matt Geary"></td>
     <td style="border: 0;"><img src="../images/anna-muir.jpg" alt="Anna Muir"></td>
 	<td style="border: 0;"><img src="../images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg"></td>
  </tr>
  <tr>
-    <td style="border: 0;"><a href="http://mattgeary.github.io">Matt Geary</a></td>
-    <td style="border: 0;"><a href="https://www.researchgate.net/profile/Anna_Muir">Anna Muir</a></td>
-	<td style="border: 0;"><a href="https://achazhardenberg.github.io/">Achaz von Hardenberg</a></td>
+    <td style="border: 0;"><a href="http://mattgeary.github.io"><b>Matt Geary</b></a></td>
+    <td style="border: 0;"><a href="https://www.researchgate.net/profile/Anna_Muir"><b>Anna Muir</b></a></td>
+	<td style="border: 0;"><a href="https://achazhardenberg.github.io/"><b>Achaz von Hardenberg</b></a></td>
  </tr>
   <tr>
     <td style="border: 0;">I'm a conservation ecologist studying how environmental drivers cause population change in space and time.</td>
@@ -34,14 +34,14 @@ Profiles of current group members
 
 ## PhD Candidates
 
-<table border="0" align  = "center">
+<table border="0" align  = "center" width = "doo"">
  <tr>
     <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
     <td style="border: 0;"><img src="" alt="PhD2"></td>
 	<td style="border: 0;"><img src="" alt="PhD3"></td>
  </tr>
  <tr>
-    <td style="border: 0;"><a href="http://chesterconsbio.github.io/cpeters.html">Kate Peters</a></td>
+    <td style="border: 0;"><a href="http://chesterconsbio.github.io/cpeters.html"><b>Kate Peters</b></a></td>
     <td style="border: 0;">Rachel Ball</td>
 	<td style="border: 0;">Naomi Matthews</td>
 	<td style="border: 0;">Alex Lancaster</td>
@@ -50,13 +50,13 @@ Profiles of current group members
     <td style="border: 0;">Molecular phylogeny and genetic diversity of the critically endangered Grenada dove (<i>Leptotila wellsi</i>)</td>
     <td style="border: 0;">Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales around the British Isles. </td>
 	<td style="border: 0;">Conservation Ecology of Giant Pangolin in Uganda.</td>
-	<td style="border: 0;">Investigating the interactions between sympatric wild guanaco and domestic sheep, and the effects of livestock on the behaviour of guanaco in Patagonia, Southern Chile.</td>
+	<td style="border: 0;">Investigating the effects of livestock on the behaviour of guanaco in Patagonia, Southern Chile.</td>
  </tr>
 </table>
 
 ## Masters by Research
 
-<table border="0" align  = "center">
+<table border="0" align  = "center" width  = 400>
  <tr>
     <td style="border: 0;"><img src="" alt="MRes1"></td>
     <td style="border: 0;"><img src="" alt="MRes2"></td>
