@@ -34,7 +34,7 @@ Profiles of current group members
 
 ## PhD Candidates
 
-<table border="0" align  = "center" width = "doo"">
+<table border="0" align  = "center" width = "400">
  <tr>
     <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
     <td style="border: 0;"><img src="" alt="PhD2"></td>
