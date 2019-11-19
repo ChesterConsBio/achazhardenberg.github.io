@@ -41,7 +41,7 @@ Profiles of current group members
 	<td style="border: 0;"><img src="" alt="PhD3"></td>
  </tr>
  <tr>
-    <td style="border: 0;"><a href="http://chesterconsbio.github.io/cpeters.html"><b>Kate Peters</b></a></td>
+    <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/cpeters.html"><b>Kate Peters</b></a></td>
     <td style="border: 0;">Rachel Ball</td>
 	<td style="border: 0;">Naomi Matthews</td>
 	<td style="border: 0;">Alex Lancaster</td>
@@ -56,7 +56,7 @@ Profiles of current group members
 
 ## Masters by Research
 
-<table border="0" align  = "center" width  = 400>
+<table border="0" align  = "center" width  = "400">
  <tr>
     <td style="border: 0;"><img src="" alt="MRes1"></td>
     <td style="border: 0;"><img src="" alt="MRes2"></td>
