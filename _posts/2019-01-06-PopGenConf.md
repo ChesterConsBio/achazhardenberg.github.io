@@ -1,15 +1,18 @@
 ---
-title: 'UoC Hosts North of England Raptor Forum'
-date: 2019-23-11
-permalink: /posts/2019/01/NERF/
+title: 'Staff and students present their research at the 52nd Population Genetics Group conference.'
+date: 2019-01-06
+permalink: /posts/2019/01/PopGenConf/
 tags:
-  - Conservation
-  - Birds
-  - Raptor
-  - Fieldwork
+  - population genetics
+  - PhD
+  - Whale
+  - Dove
+  - Worm
 
 ---
 
-on the 23rd of November, the Cheshire Raptor Study Group hosted the North of England Raptor Forum at the University of Chester. Members of the Conservation Biology Recent Group both attended and were involved with the event. Dr Matt Geary chaired the morning session which included talks about Wintering Raptors of the Dee Estuary, Raptor Monitoring in neighbouring Shropshire and Barn Owl Nest Monitoring. One of the highlights of an extremely interesting morning eas the talk from Superintendent Nick Lyall who chairs the Raptor Persecution Priority Delivery Group. Nick showed his passion and commitment to tackling raptor persecution in England and Wales and reassured many in the audience that recent positive moves would continue. 
+At the start of 2019, Dr Anna Muir and PhD students, Kate Peters and Rachel Ball, attended the 52nd Population Genetics Group meeting in Oxford to present their research, to hear about cutting-edge research taking place across the country, and to develop collaborations.
 
-In the afternoon, there were talks on Kestrel monitoring in the Southern Uplands of Scotland and East England and a fantastic, albeit unexpected talk, about Little Owls in Britain by Roy Leigh who stepped in at the last minute. The day was finished off by talks from Dr Alan Fielding about Golden Eagle Satellite tagging and James Aldred about climbing trees and filming raptors. Two very different subjects which demonstrate the breadth of activities in which conservationists get involved. Alan is a long-term collaborator with the research group and we hope to have more results from Golden Eagle satellite tagging research available soon.
+Anna presented a talk entitled “Seascape genomics of a reef-building ecosystem engineer”, Kate presented a poster on “Phylogenetic analysis of the critically endangered Grenada dove” and Rachel presented a poster discussing “Phylogeography of long-finned pilot whales stranded around the British Isles, with evidence of new haplotypes”.
+
+It was a very interesting conference that brought together researchers from across the UK as well as internationally and led to very interesting discussions about future research plans. 
