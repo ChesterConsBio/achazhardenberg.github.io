@@ -38,7 +38,7 @@ We are the Conservation Biology Research Group at the University of Chester. Our
  <tr>
     <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
     <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2"></td>
-	<td style="border: 0;"><img src="" alt="PhD3"></td>
+	<td style="border: 0;"><img src="" alt=""></td>
  </tr>
  <tr>
     <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/cpeters.html"><b>Kate Peters</b></a></td>
@@ -58,9 +58,9 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 
 <table border="0" align  = "center" width  = "400">
  <tr>
-    <td style="border: 0;"><img src="" alt="MRes1"></td>
-    <td style="border: 0;"><img src="" alt="MRes2"></td>
-	<td style="border: 0;"><img src="" alt="MRes3"></td>
+    <td style="border: 0;"><img src="" alt=""></td>
+    <td style="border: 0;"><img src="" alt=""></td>
+	<td style="border: 0;"><img src="" alt=""></td>
  </tr>
  <tr>
     <td style="border: 0;">Matthew Williams</td>
@@ -74,6 +74,6 @@ We are the Conservation Biology Research Group at the University of Chester. Our
     <td style="border: 0;">Landscape genetics of the white-faced darter dragonfly</td>
 	<td style="border: 0;">Conservation of Houbara Bustard on Lanzarote, Spain</td>
 	<td style="border: 0;">Uptake of nestboxes by Tawny Owl in Cheshire, UK</td>
-	<td style="border: 0;">Pond colonisation and conservation on the Black Isle, Scotland.</td>
+	<td style="border: 0;">Pond colonisation and conservation on the Black Isle, Scotland</td>
  </tr>
 </table>
