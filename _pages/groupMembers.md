@@ -13,10 +13,11 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 
 # Academic Staff
 <table border="0" align  = "center" width  = "400">
- <tr>
-    <td style="border: 0;"><img src="../images/mg.jpg" alt="Matt Geary"></td>
-    <td style="border: 0;"><img src="../images/anna-muir.jpg" alt="Anna Muir"></td>
-	<td style="border: 0;"><img src="../images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg"></td>
+<col width="80">
+<tr>
+    <td style="border: 0;width:500px;height:600px"><img src="../images/mg.jpg" alt="Matt Geary"></td>
+    <td style="border: 0;width:500px;height:600px"><img src="../images/anna-muir.jpg" alt="Anna Muir"></td>
+	<td style="border: 0width:500px;height:600px;"><img src="../images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg"></td>
  </tr>
  <tr>
     <td style="border: 0;"><a href="http://mattgeary.github.io"><b>Matt Geary</b></a></td>
@@ -35,9 +36,10 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 ## PhD Candidates
 
 <table border="0" align  = "center" width = "400">
+<col width="80">
  <tr>
-    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
-    <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2"></td>
+    <td style="border: 0;width:500px;height:600px"><img src="../images/GD.jpg" alt="Kate Peters"></td>
+    <td style="border: 0;width:500px;height:600px"><img src="../images/Rach2.jpg" alt="PhD2"></td>
 	<td style="border: 0;"><img src="" alt=""></td>
  </tr>
  <tr>
@@ -57,11 +59,12 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 ## Masters by Research
 
 <table border="0" align  = "center" width  = "400">
- <tr>
+<col width="80">
+ <!---><tr>
     <td style="border: 0;"><img src="" alt=""></td>
     <td style="border: 0;"><img src="" alt=""></td>
 	<td style="border: 0;"><img src="" alt=""></td>
- </tr>
+ </tr><--->
  <tr>
     <td style="border: 0;">Matthew Williams</td>
     <td style="border: 0;">Lottie Middleton</td>
