@@ -13,7 +13,6 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 
 # Academic Staff
 <table border="0" align  = "center" width  = "400">
-<col width="80">
 <tr>
     <td style="border: 0;"><img src="../images/mg.jpg" alt="Matt Geary" style="width:500px;height:600px;"></td>
     <td style="border: 0;"><img src="../images/anna-muir.jpg" alt="Anna Muir" style="width:500px;height:600px;"></td>
@@ -36,7 +35,6 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 ## PhD Candidates
 
 <table border="0" align  = "center" width = "400">
-<col width="180">
  <tr>
     <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters" style="width:500px;height:600px;"></td>
     <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2" style="width:500px;height:600px;"></td>
@@ -45,21 +43,22 @@ We are the Conservation Biology Research Group at the University of Chester. Our
  <tr>
     <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/cpeters.html"><b>Kate Peters</b></a></td>
     <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/rball.html"><b>Rachel Ball</b></a></td>
-	<td style="border: 0;">Naomi Matthews</td>
+<!---><td style="border: 0;">Naomi Matthews</td>
 	<td style="border: 0;">Alex Lancaster</td>
+<--->
  </tr>
   <tr>
     <td style="border: 0;">Molecular phylogeny and genetic diversity of the critically endangered Grenada dove (<i>Leptotila wellsi</i>)</td>
     <td style="border: 0;">Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales around the British Isles. </td>
 <!--->	<td style="border: 0;">Conservation Ecology of Giant Pangolin in Uganda.</td>
-	<td style="border: 0;">Investigating the effects of livestock on the behaviour of guanaco in Patagonia, Southern Chile.</td> <--->
+	<td style="border: 0;">Investigating the effects of livestock on the behaviour of guanaco in Patagonia, Southern Chile.</td> 
+<--->
  </tr>
 </table>
 
 ## Masters by Research
 
 <table border="0" align  = "center" width  = "400">
-<col width="80">
  <!---><tr>
     <td style="border: 0;"><img src="" alt=""></td>
     <td style="border: 0;"><img src="" alt=""></td>
