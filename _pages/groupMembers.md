@@ -14,9 +14,9 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 # Academic Staff
 <table border="0" align  = "center" width  = "400">
 <tr>
-    <td style="border: 0;"><img src="../images/mg.jpg" alt="Matt Geary" style="width:500px;height:600px;"></td>
-    <td style="border: 0;"><img src="../images/anna-muir.jpg" alt="Anna Muir" style="width:500px;height:600px;"></td>
-    <td style="border: 0;"><img src="../images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg" style="width:500px;height:600px;"></td>
+    <td style="border: 0;"><img src="../images/mg.jpg" alt="Matt Geary" ></td>
+    <td style="border: 0;"><img src="../images/anna-muir.jpg" alt="Anna Muir"></td>
+    <td style="border: 0;"><img src="../images/achaz-von-hardenberg.jpg" alt="Achaz von Hardenberg" ></td>
  </tr>
  <tr>
     <td style="border: 0;"><a href="http://mattgeary.github.io"><b>Matt Geary</b></a></td>
@@ -36,16 +36,16 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 
 <table border="0" align  = "center" width = "400">
  <tr>
-    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters" style="width:500px;height:600px;"></td>
-    <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2" style="width:500px;height:600px;"></td>
+    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters" </td>
+    <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2" </td>
 	<td style="border: 0;"><img src="" alt=""></td>
  </tr>
  <tr>
     <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/cpeters.html"><b>Kate Peters</b></a></td>
     <td style="border: 0;"><a href="http://chesterconsbio.github.io/_pages/rball.html"><b>Rachel Ball</b></a></td>
 <!---><td style="border: 0;">Naomi Matthews</td>
-	<td style="border: 0;">Alex Lancaster</td>
-<--->
+	<td style="border: 0;">Alex Lancaster</td><--->
+
  </tr>
   <tr>
     <td style="border: 0;">Molecular phylogeny and genetic diversity of the critically endangered Grenada dove (<i>Leptotila wellsi</i>)</td>
@@ -63,8 +63,8 @@ We are the Conservation Biology Research Group at the University of Chester. Our
     <td style="border: 0;"><img src="" alt=""></td>
     <td style="border: 0;"><img src="" alt=""></td>
 	<td style="border: 0;"><img src="" alt=""></td>
- </tr
-><--->
+ </tr>><--->
+
  <tr>
     <td style="border: 0;">Matthew Williams</td>
     <td style="border: 0;">Lottie Middleton</td>
