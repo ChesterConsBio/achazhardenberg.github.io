@@ -36,8 +36,8 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 
 <table border="0" align  = "center" width = "400">
  <tr>
-    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters" </td>
-    <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2" </td>
+    <td style="border: 0;"><img src="../images/GD.jpg" alt="Kate Peters"></td>
+    <td style="border: 0;"><img src="../images/Rach2.jpg" alt="PhD2"></td>
 	<td style="border: 0;"><img src="" alt=""></td>
  </tr>
  <tr>
