@@ -45,8 +45,8 @@ __Quevedo P. von Hardenberg A.,  Pastore H., Álvarez J. and  Corti P., 2016__ P
 
 __Muir, A.__ European Society for Evolutionary Biology Congress 2019, Turku, Finland “Disperse, acclimatise or adapt: seascape genomics along a thermal gradient”  
 __Muir, A.__ 52nd Population Genetics Group Meeting 2019, Oxford, UK "Seascape genomics of a reef-	building ecosystem engineer (<i>Sabellaria alveolata</i>)”    
-__Geary, M. & von Hardenberg, A.__ British Ornithologists Union Conference 2018 - Poster - "SUPPORTING THE ATLAS: Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specific Densities" 
-__Geary, M.__ British Ecological Society Annual Meeting 2016 – “Hen harrier <i>Circus cyaneus</i> nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography”
-__Muir, A.__ British Ecological Society Annual Meeting 2016, Liverpool, UK “The potential for acclimation and adaptation in response to a changing climate”  
+__Geary, M. & von Hardenberg, A.__ British Ornithologists Union Conference 2018 - Poster - "SUPPORTING THE ATLAS: Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specific Densities"    
+__Geary, M.__ British Ecological Society Annual Meeting 2016 – “Hen harrier <i>Circus cyaneus</i> nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography”  
+__Muir, A.__ British Ecological Society Annual Meeting 2016, Liverpool, UK “The potential for acclimation and adaptation in response to a changing climate”   
 
 <!---># Reports<--->
