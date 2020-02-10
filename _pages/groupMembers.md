@@ -59,7 +59,7 @@ We are the Conservation Biology Research Group at the University of Chester. Our
 	<td style="border: 0;">Joe Cooper</td>
 	<td style="border: 0;">Jack Lawrence</td>
 	<td style="border: 0;">Lorna Marcham</td>
- </tr>
+	 </tr>
   <tr>
     <td style="border: 0;">Landscape genetics of the white-faced darter dragonfly</td>
     <td style="border: 0;">Landscape genetics of the white-faced darter dragonfly</td>
